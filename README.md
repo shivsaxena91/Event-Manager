@@ -1,3 +1,6 @@
+# EventBookingSystem
+	EventbookingSystem is used to book tickets to popular events. The user can register and login to search and book tickets. The administrator can add/update events.
+
 **User Sign Up and Sign In**:
 
 	Brief description: The user can register on the website and then sign in to purchase tickets/upload
